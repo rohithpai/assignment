@@ -1,0 +1,14 @@
+.right{
+    float:right;
+	font-size: 20px;
+    font-weight:bold;
+}
+
+.left{
+    float:left;
+	font-size: 20px;
+    font-weight:bold;
+}
+.f{
+    font-size: 16px;
+}
